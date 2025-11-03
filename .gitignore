@@ -1,0 +1,4 @@
+jsx/node_modules/
+pdas/node_modules/
+**/dist/
+.DS_Store
